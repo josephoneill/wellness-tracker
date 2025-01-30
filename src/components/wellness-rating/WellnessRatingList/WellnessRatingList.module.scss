@@ -1,0 +1,20 @@
+.list-item {
+  padding: 1rem 0.5rem;
+  width: 100%;
+
+  &:not(:last-child) {
+    border-bottom: 1px solid rgb(219, 219, 219);
+  }
+}
+
+.list-item__progress-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.list-item__progress-bar {
+  flex: 1 1;
+}

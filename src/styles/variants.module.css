@@ -1,0 +1,6 @@
+.root {
+  &[data-variant='rating-selected'] {
+    background-color: var(--mantine-color-wellnessRed-9);
+    color: var(--mantine-color-wellnessRed-0);
+  }
+}

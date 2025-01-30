@@ -1,0 +1,3 @@
+type DynamoReponse = {
+  created: string;
+}

@@ -1,0 +1,6 @@
+{
+  "domain": "dev-teqyc78qms721r8v.us.auth0.com",
+  "clientId": "0CRXQ3W5XvD689Vl90UzHOD6zpsY8Gf0",
+  "audience": "https://dev-teqyc78qms721r8v.us.auth0.com/api/v2/",
+  "redirectUri": "/callback"
+}

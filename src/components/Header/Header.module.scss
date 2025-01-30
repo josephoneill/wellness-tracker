@@ -1,0 +1,20 @@
+.home-page__header {
+  color: white;
+  padding: 1rem 1rem;
+  background: linear-gradient(180deg, var(--mantine-color-wellnessRed-4), var(--mantine-color-wellnessRed-6));
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header {
+  background-color: var(--mantine-color-wellnessRed-4);
+  padding: 0.75rem;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
