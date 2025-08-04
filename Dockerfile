@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM node:18.17.0-alpine AS build
+FROM node:24-alpine3.22 AS build
 WORKDIR /usr/src/app
 COPY package*.json /usr/src/app/
 ENV NODE_ENV=production
